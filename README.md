@@ -11,5 +11,9 @@
 |  1   | [GrowthMindest](/GrowthMindest.md)  |
 |  2   | [Github](/GitHub.md)                |
 |  3   | [Markdown](/Markdown.md)            |
+<<<<<<< HEAD
 |  4   | [HTMLresources](/HTMLresources.md)  |
 |  5   | [CSS-Style](/CSS-Style.md)          |
+=======
+|  4   | [HTMLresources](/HTMLresources.md)  |
+>>>>>>> c7791edfb3e22414af4748fc043975b5b5a53f2f
