@@ -15,5 +15,9 @@
 |  5   | [CSS-Style](/CSS-Style.md)          |
 |  6   | [HTMLresources](/HTMLresources.md)  |
 |  7   | [JavaScript](/JavaScript.md)        |
+<<<<<<< HEAD
 |  8   | [LoopsJS](/LoopsJS.md)              |
+=======
+
+>>>>>>> ed901afd781c87b1646cd6a3052da2b2d6cb01a0
 

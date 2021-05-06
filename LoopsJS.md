@@ -39,3 +39,6 @@ for...of statement
 it formula be like : 
 
 for ([initialExpression]; [conditionExpression]; [incrementExpression] )
+
+**While statement**
+* its a statement that will keep give output as long as the condition is True, and it will exit from it when the condition is False.
