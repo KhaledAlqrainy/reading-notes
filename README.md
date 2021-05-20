@@ -16,5 +16,5 @@
 |  6   | [HTMLresources](/HTMLresources.md)  |
 |  7   | [JavaScript](/JavaScript.md)        |
 |  8   | [LoopsJS](/LoopsJS.md)              |
-|  9   | [JSFunctions](/JSFunctions.md)
-
+|  9   | [JSFunctions](/JSFunctions.md)      |
+|  10  | [Coder's computer](/codercomputer.md)|
