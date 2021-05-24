@@ -25,7 +25,7 @@
 | #    |    Subjects    |
 | ---- | ----------------------------------- |
 |  1   |  [Introductory HTML and JavaScript](/class01.md) |
-|  2   |   |
+|  2   | [Basic JavaScript Instructions](/class02.md)  |
 |  3   |   |
 |  4   |   |
 |  5   |   |
