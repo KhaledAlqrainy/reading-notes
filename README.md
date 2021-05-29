@@ -28,7 +28,7 @@
 |  2   | [Basic JavaScript Instructions](/class02.md)  |
 |  3   | [HTML Lists, Control Flow with JS, and the CSS Box Model](/HTMLLists.md)  |
 |  4   | [HTML Links](/HTMLLinks.md)  |
-|  5   |   |
+|  5   |  [HTML Properties](/HTMLproperties.md) |
 |  6   |   |
 |  7   |   |
 |  8   |   |
