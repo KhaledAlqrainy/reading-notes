@@ -29,7 +29,7 @@
 |  3   | [HTML Lists, Control Flow with JS, and the CSS Box Model](/HTMLLists.md)  |
 |  4   | [HTML Links](/HTMLLinks.md)  |
 |  5   |  [HTML Properties](/HTMLproperties.md) |
-|  6   |   |
+|  6   | [Object Literal](/Objectliteral.md)  |
 |  7   |   |
 |  8   |   |
 |  9   |   |
