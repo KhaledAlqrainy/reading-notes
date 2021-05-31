@@ -30,7 +30,7 @@
 |  4   | [HTML Links](/HTMLLinks.md)  |
 |  5   |  [HTML Properties](/HTMLproperties.md) |
 |  6   | [Object Literal](/Objectliteral.md)  |
-|  7   |   |
+|  7   | [Object and HTML table](/HTMLtableandObject.md)  |
 |  8   |   |
 |  9   |   |
 |  10  |   |
