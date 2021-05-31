@@ -31,7 +31,7 @@
 |  5   |  [HTML Properties](/HTMLproperties.md) |
 |  6   | [Object Literal](/Objectliteral.md)  |
 |  7   | [Object and HTML table](/HTMLtableandObject.md)  |
-|  8   |   |
+|  8   | [CSS Layout](/Layout.md)  |
 |  9   |   |
 |  10  |   |
 |  11  |   |
