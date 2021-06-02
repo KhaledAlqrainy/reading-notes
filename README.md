@@ -33,7 +33,7 @@
 |  7   | [Object and HTML table](/HTMLtableandObject.md)  |
 |  8   | [CSS Layout](/Layout.md)  |
 |  9   | [Forms and JS event](/FormandEvents.md)  |
-|  10  |   |
+|  10  | [Debuggin](/debugging.md)  |
 |  11  |   |
 |  12  |   |
 |  13  |   |
