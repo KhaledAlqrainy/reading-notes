@@ -18,3 +18,26 @@ debugger keyword. When the
 developer tools are open, this
 will automatically create a
 breakpoint.
+
+ # ERROR OBJECTS:
+
+> Error objects can helps you find where your mistakes are.
+
+
+There are seven types of built-in error objects in JavaScript:
+
+* Error
+
+* Syntax Error
+
+* Generic error
+
+* Reference Error
+
+* Type Error
+
+* Range Error
+
+* URI Error
+
+* Eval Error
