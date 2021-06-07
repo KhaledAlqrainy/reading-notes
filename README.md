@@ -36,6 +36,6 @@
 |  10  | [Debuggin](/debugging.md)  |
 |  11  | [Images in css](/images.md)  |
 |  12  | [Charts.js](/ChartandCanvas.md)  |
-|  13  |   |
+|  13  | [Local Storage](/LocalStorage.md)  |
 |  14  |   |
 |  1   |   |
