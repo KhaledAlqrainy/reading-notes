@@ -44,3 +44,5 @@
 
 | #    |    Subjects    |
 | ---- | ----------------------------------- |
+|  1   |  [Introduction to React and Components](/into-to-react.md) |
+|  2   |  [Components lifecycle](/Components-lifecycle.md) |
