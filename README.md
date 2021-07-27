@@ -47,3 +47,4 @@
 |  1   |  [Introduction to React and Components](/into-to-react.md) |
 |  2   |  [Components lifecycle](/Components-lifecycle.md) |
 |  3   |  [lists and keys](/Lists-Keys.md) |
+|  4   |  [React and Forms](/React-and-Forms.md) |
