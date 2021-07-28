@@ -48,3 +48,4 @@
 |  2   |  [Components lifecycle](/Components-lifecycle.md) |
 |  3   |  [lists and keys](/Lists-Keys.md) |
 |  4   |  [React and Forms](/React-and-Forms.md) |
+|  5   |  [Thinking in React](/Thinking-in-React.md) |
