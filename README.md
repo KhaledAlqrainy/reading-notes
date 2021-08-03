@@ -51,3 +51,4 @@
 |  5   |  [Thinking in React](/Thinking-in-React.md) |
 |  6   |  [Node.js](/nodejs.md) |
 |  7   |  [Rest](/rest.md) |
+|  8   |  [APIs](/APIs.md) |
