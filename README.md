@@ -54,3 +54,4 @@
 |  8   |  [APIs](/APIs.md) |
 |  9   |  [FUNCTIONAL PROGRAMMING](/FUNCTIONAL-PROGRAMMING.md) |
 |  10   |  [Memory Storage.md](/memory-storage.md) |
+|  11   |  [Authentication](/Authentication.md) |
