@@ -56,3 +56,4 @@
 |  10   |  [Memory Storage.md](/memory-storage.md) | 
 |  11   |  [Authentication](/Authentication.md) |
 |  12   |  [Mongo and Mongoose](/Mongo-and-Mongoose.md) |
+|  13   |  [CRUD](/CRUD.md) |
