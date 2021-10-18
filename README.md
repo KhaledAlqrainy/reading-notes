@@ -69,4 +69,4 @@
 |  4   |  [Topic](/Topic.md) | 
 |  5   |  [Linked Lists](/Linked-Lists.md) |
 |  6   |  [Game-of-Greed](/Game-of-Greed.md) |
-|  6   |  [Game-of-Greed01](/Game-of-Greed01.md) |
+|  7   |  [Game-of-Greed01](/Game-of-Greed01.md) |
