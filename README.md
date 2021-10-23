@@ -72,5 +72,6 @@
 |  7   |  [Game-of-Greed01](/Game-of-Greed01.md) |
 |  8   |  [Game-of-Greed02](/Game-of-Greed02.md) |
 |  9   |  [Game-of-Greed03](/Game-of-Greed03.md) |
-|  9   |  [Stacks and Queues](/Stacks-and-Queues.md) |
+|  10   |  [Stacks and Queues](/Stacks-and-Queues.md) |
+|  11   |  [Data Analysis](/Data-Analysis.md) |
 
