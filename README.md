@@ -75,4 +75,4 @@
 |  10   |  [Stacks and Queues](/Stacks-and-Queues.md) |
 |  11   |  [Data Analysis](/Data-Analysis.md) |
 |  12   |  [Pandal](/Pandal.md) |
-
+|  12   |  [Linear Regression](/Linear-Regression.md) |
