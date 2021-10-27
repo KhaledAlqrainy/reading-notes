@@ -74,5 +74,6 @@
 |  9   |  [Game-of-Greed03](/Game-of-Greed03.md) |
 |  10   |  [Stacks and Queues](/Stacks-and-Queues.md) |
 |  11   |  [Data Analysis](/Data-Analysis.md) |
-|  12   |  [Pandal](/Pandal.md) |
-|  12   |  [Linear Regression](/Linear-Regression.md) |
+|  12   |  [Pandal](/Pandal.md) | 
+|  13   |  [Linear Regression](/Linear-Regression.md) |
+|  14   |  [Data Visualization](/Data-Visualization.md) |
