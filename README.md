@@ -78,5 +78,4 @@
 |  13   |  [Linear Regression](/Linear-Regression.md) |
 |  14   |  [Data Visualization](/Data-Visualization.md) |
 |  15   |  [Trees](/Trees.md) |
-|  14   |  [Data Visualization](/Data-Visualization.md) |
-|  16   |  [Machine Learning](/Machine Learning.md) |
+|  16   |  [Machine Learning](/Machine-Learning.md) |
