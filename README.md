@@ -80,4 +80,6 @@
 |  15   |  [Trees](/Trees.md) |
 |  16   |  [Machine Learning](/Machine-Learning.md) |
 |  17   |  [Web Scraping](/Web-Scraping.md) |
-|  15   |  [Cryptography](/Cryptography.md) |
+|  18   |  [Cryptography](/Cryptography.md) |
+|  19   |  [Automation](/Automation.md) |
+
