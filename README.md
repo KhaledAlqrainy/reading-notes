@@ -82,4 +82,5 @@
 |  17   |  [Web Scraping](/Web-Scraping.md) |
 |  18   |  [Cryptography](/Cryptography.md) |
 |  19   |  [Automation](/Automation.md) |
+|  20   |  [Django](/Django.md) |
 
