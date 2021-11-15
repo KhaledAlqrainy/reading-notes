@@ -83,4 +83,5 @@
 |  18   |  [Cryptography](/Cryptography.md) |
 |  19   |  [Automation](/Automation.md) |
 |  20   |  [Django](/Django.md) |
+|  20   |  [Django-models](/Django-models.md) |
 
