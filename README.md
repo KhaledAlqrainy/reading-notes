@@ -85,4 +85,6 @@
 |  20   |  [Django](/Django.md) |
 |  21   |  [Django-models](/Django-models.md) | 
 |  22   |  [Django CRUD](/Django-CRUD.md) |
+|  23   |  [Django Custom User](/Django-Custom-User.md) |
+
 
