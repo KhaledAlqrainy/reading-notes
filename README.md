@@ -88,5 +88,6 @@
 |  23   |  [Django Custom User](/Django-Custom-User.md) |
 |  24   |  [Hashtables](/Hashtables.md) |
 |  25   |  [Docker](/Docker.md) |
+|  26   |  [Permissions](/Permissions.md) |
 
 
