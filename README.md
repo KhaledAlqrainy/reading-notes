@@ -89,5 +89,7 @@
 |  24   |  [Hashtables](/Hashtables.md) |
 |  25   |  [Docker](/Docker.md) |
 |  26   |  [Permissions](/Permissions.md) |
+|  27   |  [Authentication & Production Server](/Authentication.md) |
+
 
 
