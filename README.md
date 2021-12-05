@@ -96,6 +96,8 @@
 |  31   |  [React01](/React01.md) |
 |  32   |  [React02](/React02.md) |
 |  33   |  [React03](/React03.md) |
+|  34   |  [Deployment](/Deployment.md) |
+
 
 
 
