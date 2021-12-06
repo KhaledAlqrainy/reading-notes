@@ -98,6 +98,10 @@
 |  33   |  [React03](/React03.md) |
 |  34   |  [Deployment](/Deployment.md) |
 |  35   |  [Dunder](/Dunder.md) |
+|  36   |  [Ethics](/Ethics.md) |
+
+
+
 
 
 
